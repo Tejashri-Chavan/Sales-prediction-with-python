@@ -9,7 +9,7 @@ pandas
 matplotlib
 seaborn
 Dataset
-The dataset used for training and testing the model contains the following features:
+The dataset used for training and testing the model contains the following features :
 
 Date: Date of the sale
 Product ID: Unique identifier for each product
