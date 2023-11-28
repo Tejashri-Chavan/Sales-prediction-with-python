@@ -11,7 +11,7 @@ seaborn
 Dataset
 The dataset used for training and testing the model contains the following features :
 
-Date: Date of the sale
+Date:Date of the sale
 Product ID: Unique identifier for each product
 Units Sold: Number of units sold on a given day
 Price: Price of the product on that day
